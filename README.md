@@ -1,8 +1,8 @@
 # Leni Tools
 
-![License](https://img.shields.io/github/license/lenimagesvonhinten/leni-tools)
-![Version](https://img.shields.io/github/v/release/lenimagesvonhinten/leni-tools)
-![Language](https://img.shields.io/github/languages/top/lenimagesvonhinten/leni-tools)
+![License](https://img.shields.io/github/license/lenimagesvonhinten/lenitools)
+![Version](https://img.shields.io/github/v/release/lenimagesvonhinten/lenitools)
+![Language](https://img.shields.io/github/languages/top/lenimagesvonhinten/lenitools)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
 Simple scripts and helpers tools for Maya
