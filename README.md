@@ -63,7 +63,7 @@ This project is licensed under the [Apache 2.0 License](LICENSE.md).
 <!-- General links -->
 
 [github]: https://github.com/lenimagesvonhinten
-[github-releases]: https://github.com/lenimagesvonhinten/leni-tools/releases
-[github-contributors]: https://github.com/lenimagesvonhinten/leni-tools/graphs/contributors
+[github-releases]: https://github.com/lenimagesvonhinten/lenitools/releases
+[github-contributors]: https://github.com/lenimagesvonhinten/lenitools/graphs/contributors
 [gitflow]: https://danielkummer.github.io/git-flow-cheatsheet/
 [gitflow-model]: http://nvie.com/posts/a-successful-git-branching-model/
